@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  float: left;
+  text-align: center;
+  margin: 5% 10%;
+}
+.cal-body {
+  width: 40%;
+  float: left;
+  background-color: rgba(0, 255, 255, 0.336);
+  margin-left: 28%;
+  padding-top: 5%;
+}
+.buttons {
+  width: 100%;
+  float: left;
+}
+.button {
+  width: 17%;
+  float: left;
+  margin: 4%;
+}
+.button-styles {
+  padding: 7px 15px;
+  cursor: pointer;
+  border: none;
+  width: 50px;
+}
+.symbols-btn {
+  background-color: rgba(128, 128, 128, 0.24);
+}
+.number-btn {
+  width: 100%;
+  float: left;
+}
+.numbers {
+  width: 100%;
+  float: left;
+  height: 300px;
+}
+.margin-spacing {
+  margin-bottom: 40px;
+}
